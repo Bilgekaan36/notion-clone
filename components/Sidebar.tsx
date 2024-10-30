@@ -13,6 +13,11 @@ const Sidebar = () => {
   const menuOptions = (
     <>
       <NewDocumentButton />
+      {/* My Documents */}
+      {/* List... */}
+
+      {/* SHared with Me */}
+      {/* List... */}
     </>
   );
 
